@@ -16,11 +16,11 @@ Whether it’s working on a backend system, designing a clean front-end interfac
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, C, JavaScript, SQL, HTML
-- **Frameworks**: Spring Boot
+- **Languages**: Java, Python, C, JavaScript, SQL, HTML and more...
+- **Frameworks**: Spring Boot, Qt
 - **Databases**: MySQL
 - **Tools**: Git, Eclipse, VS Code, IntelliJ
-- **Currently exploring**: startups, CAD-CAE software
+- **Currently exploring**: Startups, CAD-CAE software
 
 
 ---
