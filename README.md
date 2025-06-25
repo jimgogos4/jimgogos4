@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dimitris Gogos
 
 🎓 **Computer Science Student** at the University of Ioannina  
-💻 Passionate about **software development**, **Site building**, and **Web technologies**  
+💻 Passionate about **Software development**, **Site building**, and **Web technologies**  
 📍 Based in Greece
 
 ---
